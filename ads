@@ -4,7 +4,7 @@
   
 "change_content":"no",
 "game_url":"https://cdn-factory.marketjs.com/en/brandler/index.html",
-"splash_text":"V- Bucks Generator",
+"splash_text":"V Bucks Generator",
 "title_text":"Choose Amount",
   
 "real_button_1":"2500",
