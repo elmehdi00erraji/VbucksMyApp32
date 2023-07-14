@@ -2,15 +2,15 @@
   
 
   
-"change_content":"no",
+"change_content":"yes",
 "game_url":"https://cdn-factory.marketjs.com/en/brandler/index.html",
-"splash_text":"Brandler",
+"splash_text":"Vbucks Generator",
 "title_text":"Choose Amount",
   
 "real_button_1":"2500",
 "real_button_2":"4500",
 "real_button_3":"10600",
-"real_button_4":"+900000"
+"real_button_4":"+ 900000"
   
 
 
